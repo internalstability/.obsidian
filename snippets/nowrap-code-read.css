@@ -1,0 +1,12 @@
+pre > code {
+    /* make a code block in reading view horizontally scrollable */
+    overflow-x: auto;
+    /* make a plain text code block in reading view not being wrapped */
+    white-space: pre;
+}
+
+/* make a syntax highlighted code block in reading view not being wrapped */
+pre > code span {
+    white-space: pre;
+}
+

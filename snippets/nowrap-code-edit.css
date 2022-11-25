@@ -1,0 +1,5 @@
+/* make a code block in editing view not being wrapped */
+.HyperMD-codeblock {
+    white-space: pre;
+}
+

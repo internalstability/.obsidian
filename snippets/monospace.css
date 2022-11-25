@@ -1,0 +1,5 @@
+/* make a font in editing view monospace */
+div.cm-content {
+    font-family: monospace;
+}
+
