@@ -1,0 +1,5 @@
+/* disable skewed indent of list in editing view  */
+div.HyperMD-list-line.cm-line{
+    text-indent: unset !important;
+    padding-inline-start: unset !important;
+}
